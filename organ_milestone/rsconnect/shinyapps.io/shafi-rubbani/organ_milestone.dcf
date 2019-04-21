@@ -1,0 +1,12 @@
+name: organ_milestone
+title: organ_milestone
+username:
+account: shafi-rubbani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 879116
+bundleId: 2025596
+url: https://shafi-rubbani.shinyapps.io/organ_milestone/
+when: 1555786015.989
+asMultiple: FALSE
+asStatic: FALSE
